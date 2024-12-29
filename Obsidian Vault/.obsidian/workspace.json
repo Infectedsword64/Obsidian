@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "970b5adba2d940fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "64656d4f59e7b96e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdf06897c17735a9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "35fe99de12677bdb",
+    "type": "split",
+    "children": [
+      {
+        "id": "200dc9ffd26cdbff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8270bb573985f4bc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "d7c93d6d0a9ea3ce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#ПроектированиеПО",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "f8512e3fb009c3ee",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 396.5
+  },
+  "right": {
+    "id": "620ff0da775b1bb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce6f53f298c5664a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70aea70b0a7d6765",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Информационная безопасность/Внутренние атаки.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Внутренние атаки"
+            }
+          },
+          {
+            "id": "e78b2ce226c7fe13",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Информационная безопасность/Внутренние атаки.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Внутренние атаки"
+            }
+          },
+          {
+            "id": "190a21c4d59bc585",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "db476f18c7be1323",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Информационная безопасность/Внутренние атаки.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Внутренние атаки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 305.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "fdf06897c17735a9",
+  "lastOpenFiles": [
+    "Приёмочное тестирование.md",
+    "Бета-тестирование.md",
+    "Альфа-тестирование.md",
+    "Нормативное тестирование.md",
+    "Контрактное тестирование.md",
+    "Эксплуатационное тестирование.md",
+    "Пользовательское тестирование.md",
+    "Уровни тестирования.md",
+    "Тестирование программного обеспечения.md",
+    "Технологии разработки программного обеспечения.md",
+    "Интернет-технологии.md",
+    "Логарифм.md",
+    "Автоматическая память.md",
+    "Сокет.md",
+    "Программный порт.md",
+    "Компьютер.md",
+    "Проектирование.md",
+    "Артур Шопенгауэр.md",
+    "Без названия.canvas",
+    "оопропро.md",
+    "Мокинг.md",
+    "Мокинг в тестировании.md",
+    "Системы контроля версий.md",
+    "Git.md",
+    "Синтаксический сахар.md",
+    "Моки (макеты).md",
+    "Модульное тестирование (Unit-тестирование).md",
+    "Холсты/Без названия.canvas",
+    "Холсты",
+    "Без названия 1.canvas",
+    "O - Open",
+    "Языки разработки/Python",
+    "Дизайн",
+    "Педагогика",
+    "Информационная безопасность",
+    "О животных",
+    "Разработка игр",
+    "Pasted image 20240808164857.png",
+    "ТРПО",
+    "Всемирная сеть",
+    "Бабаба/Без названия.canvas"
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Языки разработки\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "path:\"Парадигмы программирования\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "path:ТиМОИ  ",
+      "color": {
+        "a": 1,
+        "rgb": 4093648
+      }
+    },
+    {
+      "query": "path:Информатика  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "path:\"Всемирная сеть\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5967234
+      }
+    },
+    {
+      "query": "tag:#РазработкаПО  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048429
+      }
+    },
+    {
+      "query": "path:\"Разработка игр\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:\"О животных\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10207372
+      }
+    },
+    {
+      "query": "path:\"Информационная безопасность\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:Педагогика  ",
+      "color": {
+        "a": 1,
+        "rgb": 57855
+      }
+    },
+    {
+      "query": "path:Дизайн",
+      "color": {
+        "a": 1,
+        "rgb": 16711888
+      }
+    },
+    {
+      "query": "tag:#Философия  ",
+      "color": {
+        "a": 1,
+        "rgb": 157079
+      }
+    },
+    {
+      "query": "tag:#Алгоритмы  ",
+      "color": {
+        "a": 1,
+        "rgb": 10296091
+      }
+    },
+    {
+      "query": "tag:#Интернет  ",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "tag:#Информатика  ",
+      "color": {
+        "a": 1,
+        "rgb": 6729983
+      }
+    },
+    {
+      "query": "tag:#ИзвестныеЛичности  ",
+      "color": {
+        "a": 1,
+        "rgb": 13893887
+      }
+    },
+    {
+      "query": "tag:#ИзвестныеЛичности tag:#Философия  ",
+      "color": {
+        "a": 1,
+        "rgb": 7340185
+      }
+    },
+    {
+      "query": "tag:#ТестированиеПО  ",
+      "color": {
+        "a": 1,
+        "rgb": 16646523
+      }
+    },
+    {
+      "query": "tag:#РазработкаПО tag:#ТестированиеПО  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711803
+      }
+    },
+    {
+      "query": "tag:#ПроектированиеПО  ",
+      "color": {
+        "a": 1,
+        "rgb": 16673914
+      }
+    },
+    {
+      "query": "tag:#УстройствоКомпьютера path:",
+      "color": {
+        "a": 1,
+        "rgb": 16746496
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.2460498960499,
+  "lineSizeMultiplier": 0.594074844074844,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 500,
+  "scale": 0.030182895067325008,
+  "close": false
+}
